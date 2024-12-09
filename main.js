@@ -195,7 +195,6 @@ locatePin.addEventListener("click", () => {
 
 /*
  To Do
- preview in a page
  input image file
  what if user create pin but dont locate and then try to create same 
 */
